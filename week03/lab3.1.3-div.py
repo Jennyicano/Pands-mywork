@@ -1,5 +1,6 @@
 # This program will reads to number.
-# Also divides the first number by the second and will outputs the integrer answer and remainder.
+# Also divides the first number by the second 
+# and will outputs the integrer answer and remainder.
 # Author Jennifer Ibanez Cano
 
 a = int(input("Enter first number: "))
