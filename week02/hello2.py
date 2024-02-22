@@ -5,6 +5,5 @@ name = input("Enter your name: ")
 print('Hello' + name)
 
 # The program will say nice to meet you after saying hello
-
 name = input("Enter your name: ")
 print('Hello' + name + '\nNice to meet you')
