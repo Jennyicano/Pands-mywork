@@ -1,5 +1,5 @@
 # This program reads in numbers until the user enters 0.
-#
+# The program will show the numbers in a list.
 # The program will print out each of the numbers entered
 # and the average of them
 
