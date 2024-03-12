@@ -41,6 +41,7 @@ me = {
     # o. me["teaching"][0]["semester"]
     # p. me["teaching"][0]["coursename"]
 
+# I'll use the function print + type 
 print (type(numberOfQuestions))
 print (type(averageAge))
 print (type(debugMode))
@@ -55,5 +56,8 @@ print (type(someone))
 print (type(someone ["firstname"]))
 print (type(me))
 print (type(me ["teaching"]))
-print (type(me ["teaching"], [0], ["semester"]))
-print (type(me ["teaching"], [0], ["courseName"]))
+print (type(me ["teaching"] [0] ["semester"]))
+print (type(me ["teaching"] [0] ["coursename"]))
+
+# The answer to the question 'P' will give error because 
+# the code has a capital N in courseNam 
